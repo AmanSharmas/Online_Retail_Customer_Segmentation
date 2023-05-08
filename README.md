@@ -30,9 +30,7 @@ This project is about customer segmentation for a UK-based online retail busines
 
 * Using a transaction data set that contains customer ID, country, StockCode, description, quantity, unit price, invoice number, and invoice date.
 
-* Applying RFM analysis, a technique that segments customers based on three factors: recency (how recently they purchased), frequency (how often they purchased), and monetary value (how much they spent):
-![RFM-Customer-Segmentation-Model-Google-Slides-Templates-Diagrams-0005](https://user-images.githubusercontent.com/122456255/236865357-cefb2356-2e40-47ed-b5d7-b97e48864ee0.jpg)
-
+* Applying RFM analysis, a technique that segments customers based on three factors: recency (how recently they purchased), frequency (how often they purchased), and monetary value (how much they spent).
 
 * Identifying different customer segments based on their RFM values and their purchasing behavior and characteristics.
 
@@ -41,6 +39,8 @@ This project is about customer segmentation for a UK-based online retail busines
 * Providing insights into the characteristics and preferences of each customer segment and suggesting marketing and sales strategies to target them effectively.
 
 * Aiming to help the business improve customer satisfaction and increase revenue by offering personalized and relevant products and services to each customer segment.
+
+![RFM-Customer-Segmentation-Model-Google-Slides-Templates-Diagrams-0005](https://user-images.githubusercontent.com/122456255/236865357-cefb2356-2e40-47ed-b5d7-b97e48864ee0.jpg)
 
 
 ## Libraries used in EDA & Machine Learning:
