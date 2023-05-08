@@ -47,22 +47,22 @@ This project is about customer segmentation for a UK-based online retail busines
 
 ## Steps involved in building a ML Model:
 
-> Step 1: Data gathering and Understanding
+ Step 1: Data gathering and Understanding
 
-> Step 2: Data preparation
+ Step 2: Data preparation
 
-> Step 3: Data Cleaning
+ Step 3: Data Cleaning
 
-> Step 4: Exploratory data analysis
+ Step 4: Exploratory data analysis
 
-> Step 5: Feature engineering and selection
+ Step 5: Feature engineering and selection
 
-> Step 6: ML Model assumption and checks
+ Step 6: ML Model assumption and checks
 
-> Step 7: Data preparation for modelling
+ Step 7: Data preparation for modelling
 
-> Step 8: Model Building
+ Step 8: Model Building
 
-> Step 9: Model Validation & Evaluation
+ Step 9: Model Validation & Evaluation
 
-> Step 10: Predictions & Saving model using pickel library.
+ Step 10: Predictions & Saving model using pickel library.
